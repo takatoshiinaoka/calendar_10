@@ -1,0 +1,25 @@
+body {
+    margin : 0;
+}
+
+.header{
+    background-color: #FFB6C1;
+    padding : 1em;
+}
+
+h1{
+    color :#333333;
+    font-size : 3em;  
+    margin : 40px auto;
+    width : 300px;
+    padding :20px 60px;
+    border :5px solid #AAAAAA;
+}
+
+h2{
+    text-align : right;
+}
+
+p{
+    text-align :center;
+}
